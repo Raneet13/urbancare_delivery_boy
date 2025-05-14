@@ -1,0 +1,2 @@
+D:/flutter_development/project/urbancare_delivery_boy/android/app/.cxx/RelWithDebInfo/2s14264x/x86/CMakeFiles/edit_cache.dir
+D:/flutter_development/project/urbancare_delivery_boy/android/app/.cxx/RelWithDebInfo/2s14264x/x86/CMakeFiles/rebuild_cache.dir

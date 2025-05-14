@@ -1,0 +1,1 @@
+D:\flutter_development\project\urbancare_delivery_boy\build\app\intermediates\cxx\RelWithDebInfo\2s14264x\obj\arm64-v8a
