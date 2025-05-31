@@ -41,3 +41,11 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+
+
+# it init
+# git add README.md
+# git commit -m "first commit"
+# git branch -M Ranjeet
+# git remote add origin https://github.com/Raneet13/urbancare_delivery_boy.git
+# git push -u origin Ranjeet
